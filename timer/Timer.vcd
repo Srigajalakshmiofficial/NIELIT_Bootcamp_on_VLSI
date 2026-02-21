@@ -1,0 +1,207 @@
+$date
+	Thu Feb 19 09:28:45 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module timer_tb $end
+$var wire 1 ! done $end
+$var parameter 32 " N $end
+$var reg 1 # clk $end
+$var reg 10 $ end_val [9:0] $end
+$var reg 10 % load_Val [9:0] $end
+$var reg 1 & rst $end
+$var reg 1 ' start $end
+$scope module dut $end
+$var wire 1 # clk $end
+$var wire 10 ( end_val [9:0] $end
+$var wire 10 ) load_Val [9:0] $end
+$var wire 1 & rst $end
+$var wire 1 ' start $end
+$var parameter 32 * N $end
+$var reg 10 + count [9:0] $end
+$var reg 1 ! done $end
+$var reg 1 , running $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b1010 *
+b1010 "
+$end
+#0
+$dumpvars
+0,
+b0 +
+b0 )
+b0 (
+0'
+1&
+b0 %
+b0 $
+0#
+0!
+$end
+#5
+1#
+#10
+0#
+0&
+#15
+1,
+b111 +
+1#
+1'
+b111 %
+b111 )
+#20
+0#
+#25
+1#
+#30
+0#
+b10 $
+b10 (
+#35
+1#
+#40
+0#
+0'
+#45
+b110 +
+1#
+#50
+0#
+#55
+b101 +
+1#
+#60
+0#
+#65
+b100 +
+1#
+#70
+0#
+#75
+b11 +
+1#
+#80
+0#
+#85
+b10 +
+1#
+#90
+0#
+#95
+1!
+0,
+1#
+#100
+0#
+#105
+1#
+#110
+0#
+#115
+1#
+#120
+0#
+#125
+1#
+#130
+0#
+#135
+1#
+#140
+0#
+#145
+0!
+1,
+b101 +
+1#
+1'
+b101 %
+b101 )
+#150
+0#
+#155
+1#
+#160
+0#
+b1 $
+b1 (
+#165
+1#
+#170
+0#
+0'
+#175
+b100 +
+1#
+#180
+0#
+#185
+b11 +
+1#
+#190
+0#
+#195
+b10 +
+1#
+#200
+0#
+#205
+b1 +
+1#
+#210
+0#
+#215
+1!
+0,
+1#
+#220
+0#
+#225
+1#
+#230
+0#
+#235
+1#
+#240
+0#
+#245
+1#
+#250
+0#
+#255
+1#
+#260
+0#
+#265
+1#
+#270
+0#
+#275
+1#
+#280
+0#
+#285
+1#
+#290
+0#
+#295
+1#
+#300
+0#
+#305
+1#
+#310
+0#
+#315
+1#
+#320
+0#

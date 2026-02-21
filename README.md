@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔧 NIELIT Bootcamp — Verilog Design Projects
 
 A collection of digital design modules implemented in **Verilog HDL** as part of the NIELIT VLSI/Digital Design Bootcamp. The projects cover foundational combinational and sequential circuits, progressing up to a mini System-on-Chip (SoC) integration and a UART receiver.
@@ -221,3 +222,6 @@ yosys -p "read_verilog and.v; synth; write_verilog and_gate.v"
 ## 🎓 About
 
 These designs were developed as part of the **NIELIT VLSI/Digital Design Bootcamp**, covering RTL design fundamentals through Verilog HDL.
+=======
+# NIELIT_Bootcamp_on_VLSI
+>>>>>>> 7fca340d097cd7b78df7e00cf2e70d2feafc5c55
